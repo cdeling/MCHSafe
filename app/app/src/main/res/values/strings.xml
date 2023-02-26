@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MCHSafe</string>
+    <string name="title_home">First Floor</string>
+    <string name="title_dashboard">Second Floor</string>
+    <string name="title_notifications">Settings</string>
+
+</resources>
