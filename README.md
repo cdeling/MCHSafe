@@ -1,5 +1,3 @@
-gallery: https://github.com/cdeling/MCHSafe/tree/main/gallery
-
 ## Inspiration
 Not a school day goes by where my fellow students and I witness frustrating crimes, such as: 
 - people vaping in the bathrooms
